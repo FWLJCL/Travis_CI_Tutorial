@@ -16,6 +16,6 @@ after_success:
   on:
     tags: true
     branch: tag
-    repo: <your_github_username>/<your_repo_name>
+    repo: <FWLJCL>/<Travis_CI_Tutorial>
 
 
