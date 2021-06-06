@@ -15,7 +15,7 @@ after_success:
     - .travis.yml
   on:
     tags: true
-    branch: tag
+    branch: knowingNothing
     repo: <FWLJCL>/<Travis_CI_Tutorial>
 
 
