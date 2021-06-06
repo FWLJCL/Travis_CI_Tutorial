@@ -19,6 +19,6 @@ after_success:
     repo: <FWLJCL>/<Travis_CI_Tutorial>
 notifications:
  email:
-   3106886964@qq.com(replace by your e-mail)
+  - 3106886964@qq.com(replace by your e-mail)
 
 
