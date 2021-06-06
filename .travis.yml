@@ -17,5 +17,8 @@ after_success:
     tags: true
     branch: knowingNothing
     repo: <FWLJCL>/<Travis_CI_Tutorial>
+notifications:
+ email:
+   3106886964@qq.com(replace by your e-mail)
 
 
